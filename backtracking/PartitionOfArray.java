@@ -1,7 +1,7 @@
 package backtracking;
 
 import java.util.*;
-
+//adding comments
 public class PartitionOfArray {
 
 	public static void main(String[] args) {
